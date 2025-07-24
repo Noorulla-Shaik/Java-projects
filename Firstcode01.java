@@ -1,4 +1,4 @@
-class Firstcode { 
+public class Firstcode01 { 
     //firstcode is represent the file name
     public static void main(String[] args) {
         //PUBLIC → it is acess specifiers
