@@ -1,29 +1,43 @@
-# 🚀 Java Projects
+# Java Projects 🚀
 
-This repository is my personal learning journey from basic to advanced Java programming.  
-Every file here is part of my daily progress — from writing "Hello World" to understanding core Java concepts step-by-step.
-
----
-
-## 📘 Projects & Files
-
-| #  | File Name              | Description                      | Date        |
-|----|------------------------|----------------------------------|-------------|
-| 1  | HelloWorld.java        | First Java program               | 2025-07-20  |
-| 2  | Addition02.java        | Simple arithmetic logic          | 2025-07-21  |
-| 3  | LocalVariables03.java  | Local variable practice          | 2025-07-22  |
-| 4  | FirstCode04.java       | Testing naming conventions       | 2025-07-23  |
-| 5  | StudentDetails05.java  | Class and object in Java         | 2025-07-24  |
-
-
-> ✅ More files will be added as I keep learning!
+This repository showcases my Java learning journey — from zero to object-oriented programming and beyond. Every file is named with purpose and date-based for progress tracking.
 
 ---
 
-## 🛠️ How to Run Java Code
+## 🗂️ Project File List
 
-Make sure Java is installed on your system. Use the terminal to compile and run your code like this:
+| #  | File Name                | Description                               | Date        |
+|----|--------------------------|-------------------------------------------|-------------|
+| 1  | Firstcode01.java         | My very first Java program (Hello World)  | 2025-07-20  |
+| 2  | Addition02.java          | Simple arithmetic logic                   | 2025-07-21  |
+| 3  | localvariables03.java    | Practice with local variables             | 2025-07-22  |
+| 4  | Instancevariables04.java | Practice with instance variables          | 2025-07-23  |
+| 5  | Classvariables.java      | Class (static) variables example          | 2025-07-23  |
+| 6  | StudentDetails.java      | Class and object example                  | 2025-07-24  |
+| 7  | Scannerword06.java       | Input handling using Scanner              | 2025-07-24  |
+| 8  | Scopevariable06.java     | Scope of variables demo                   | 2025-07-24  |
+| 9  | ForamtSpecifiers.java    | Print formatting and format specifiers    | 2025-07-24  |
+| 10 | TypeCasting.java         | Type casting between data types           | 2025-07-24  |
+
+---
+
+## 💡 Topics Covered
+
+- ✅ Basic Syntax
+- ✅ Output Printing
+- ✅ Arithmetic Operations
+- ✅ Local, Instance, and Class Variables
+- ✅ User Input via `Scanner`
+- ✅ Variable Scope
+- ✅ Format Specifiers (`printf`)
+- ✅ Type Casting
+- ✅ Classes and Objects
+
+---
+
+## 🛠️ Run Instructions
 
 ```bash
+
 javac FileName.java   # Compiles the Java file
 java FileName         # Runs the Java class
