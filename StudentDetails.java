@@ -9,11 +9,11 @@ public class StudentDetails {
         System.out.println("ENTER YOUR BRANCH :");
         String branch = s.nextLine();
         System.out.println("ENTER YOUR YEAR");
-        int year = s.nextInt();
+        int years = s.nextInt();
         System.out.println("YOUR DETALIS ARE ");
 System.out.println("NAME  ="+name);
 System.out.println("ROLL NUMBER ="+number);
 System.out.println("BRANCH ="+branch);
-System.out.println("YEAR ="+year);
+System.out.println("YEAR ="+years);
 }
 }
